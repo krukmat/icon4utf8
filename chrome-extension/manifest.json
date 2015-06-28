@@ -1,0 +1,19 @@
+{
+  "name": "Icons UTF-8 for all",
+  "version": "0.1",
+  "description": "Copy all most popular utf-8 icons for usage in what you need",
+  "icons": {
+    "128": "images/icon.png",
+    "48": "images/icon.png",
+    "16": "images/icon.png"
+  },
+  "browser_action": {
+    "default_icon": "images/icon.png",
+    "default_popup": "popup.html"
+  },
+  "manifest_version": 2,
+  "permissions": [
+      "clipboardWrite", // for copy and cut
+      "clipboardRead" // for paste
+  ]
+}
