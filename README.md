@@ -1,5 +1,8 @@
 # icon4utf8
 A simple Google Chrome for copy utf-8 glyph icons for usage wherever you want. It's useful for Gmail. Maybe you can try with another web-clients.
+Codes extracted from
+   * http://en.wikipedia.org/wiki/Dingbat#Unicode_Dingbats and
+   * http://en.wikipedia.org/wiki/Miscellaneous_Symbols
 
 1. Usage download or clone project.
 
